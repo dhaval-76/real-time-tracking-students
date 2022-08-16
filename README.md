@@ -4,11 +4,11 @@ Attendance Quality Analyser is a project deployed using streamlit.
 
 ## Team Members:
 
-Dhaval Solanki `<br>`
-Dhruvin Dungrani `<br>`
-Durvang Parab `<br>`
-Dwayne Gonsalves `<br>`
-Harsh Lotia `<br>`
+Dhaval Solanki <br>
+Dhruvin Dungrani <br>
+Durvang Parab <br>
+Dwayne Gonsalves <br>
+Harsh Lotia <br>
 
 ## Project Overview:
 
